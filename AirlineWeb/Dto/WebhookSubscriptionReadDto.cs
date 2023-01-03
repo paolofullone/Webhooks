@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace AirlineWeb.Dtos;
+﻿namespace AirlineWeb.Dtos;
 
 public class WebhookSubscriptionReadDto
 {

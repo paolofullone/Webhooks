@@ -1,4 +1,7 @@
 
+using Microsoft.EntityFrameworkCore;
+using TravelAgentWeb.Data;
+
 namespace TravelAgentWeb
 {
     public class Program
@@ -8,6 +11,10 @@ namespace TravelAgentWeb
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
+
+            // Add DbContext to the container.
+            builder.Services.AddDbContext<TravelAgentDbContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("TravelAgentConnection")));
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -25,8 +32,9 @@ namespace TravelAgentWeb
 
             app.UseHttpsRedirection();
 
-            app.UseAuthorization();
+            app.UseRouting();
 
+            app.UseAuthorization();
 
             app.MapControllers();
 
