@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\CSharp\\Webhook\\Projeto\\Webhooks\\AirlineWeb\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.AirlineWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.AirlineWeb.props",
+      "PackagePath": "build\\AirlineWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.AirlineWeb.props",
+      "PackagePath": "buildMultiTargeting\\AirlineWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.AirlineWeb.props",
+      "PackagePath": "buildTransitive\\AirlineWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

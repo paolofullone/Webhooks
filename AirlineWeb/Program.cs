@@ -40,6 +40,8 @@ namespace AirlineWeb
 
             app.UseHttpsRedirection();
 
+            app.UseStaticFiles();
+
             app.UseAuthorization();
 
 
