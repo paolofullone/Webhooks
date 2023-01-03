@@ -1,3 +1,10 @@
+C:\CSharp\Webhook\Projeto\Webhooks\AirlineWeb\obj\Debug\net7.0\AirlineWeb.csproj.AssemblyReference.cache
+C:\CSharp\Webhook\Projeto\Webhooks\AirlineWeb\obj\Debug\net7.0\AirlineWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Webhook\Projeto\Webhooks\AirlineWeb\obj\Debug\net7.0\AirlineWeb.AssemblyInfoInputs.cache
+C:\CSharp\Webhook\Projeto\Webhooks\AirlineWeb\obj\Debug\net7.0\AirlineWeb.AssemblyInfo.cs
+C:\CSharp\Webhook\Projeto\Webhooks\AirlineWeb\obj\Debug\net7.0\AirlineWeb.csproj.CoreCompileInputs.cache
+C:\CSharp\Webhook\Projeto\Webhooks\AirlineWeb\obj\Debug\net7.0\AirlineWeb.MvcApplicationPartsAssemblyInfo.cs
+C:\CSharp\Webhook\Projeto\Webhooks\AirlineWeb\obj\Debug\net7.0\AirlineWeb.MvcApplicationPartsAssemblyInfo.cache
 C:\CSharp\Webhook\Projeto\Webhooks\AirlineWeb\bin\Debug\net7.0\appsettings.Development.json
 C:\CSharp\Webhook\Projeto\Webhooks\AirlineWeb\bin\Debug\net7.0\appsettings.json
 C:\CSharp\Webhook\Projeto\Webhooks\AirlineWeb\bin\Debug\net7.0\AirlineWeb.exe
@@ -57,13 +64,6 @@ C:\CSharp\Webhook\Projeto\Webhooks\AirlineWeb\bin\Debug\net7.0\runtimes\win\lib\
 C:\CSharp\Webhook\Projeto\Webhooks\AirlineWeb\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\CSharp\Webhook\Projeto\Webhooks\AirlineWeb\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\CSharp\Webhook\Projeto\Webhooks\AirlineWeb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\CSharp\Webhook\Projeto\Webhooks\AirlineWeb\obj\Debug\net7.0\AirlineWeb.csproj.AssemblyReference.cache
-C:\CSharp\Webhook\Projeto\Webhooks\AirlineWeb\obj\Debug\net7.0\AirlineWeb.GeneratedMSBuildEditorConfig.editorconfig
-C:\CSharp\Webhook\Projeto\Webhooks\AirlineWeb\obj\Debug\net7.0\AirlineWeb.AssemblyInfoInputs.cache
-C:\CSharp\Webhook\Projeto\Webhooks\AirlineWeb\obj\Debug\net7.0\AirlineWeb.AssemblyInfo.cs
-C:\CSharp\Webhook\Projeto\Webhooks\AirlineWeb\obj\Debug\net7.0\AirlineWeb.csproj.CoreCompileInputs.cache
-C:\CSharp\Webhook\Projeto\Webhooks\AirlineWeb\obj\Debug\net7.0\AirlineWeb.MvcApplicationPartsAssemblyInfo.cs
-C:\CSharp\Webhook\Projeto\Webhooks\AirlineWeb\obj\Debug\net7.0\AirlineWeb.MvcApplicationPartsAssemblyInfo.cache
 C:\CSharp\Webhook\Projeto\Webhooks\AirlineWeb\obj\Debug\net7.0\staticwebassets\msbuild.AirlineWeb.Microsoft.AspNetCore.StaticWebAssets.props
 C:\CSharp\Webhook\Projeto\Webhooks\AirlineWeb\obj\Debug\net7.0\staticwebassets\msbuild.build.AirlineWeb.props
 C:\CSharp\Webhook\Projeto\Webhooks\AirlineWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AirlineWeb.props
