@@ -9,11 +9,6 @@ Projeto desenvolvido para entendimento da utilização de webhooks. O case simul
  - [Udemy - Webhooks with .NET 5](https://www.udemy.com/course/webhooks-with-dotnet-5/)
 
 
-## Demonstração
-
-Insira um gif ou um link de alguma demonstração
-
-
 ## Rodando localmente
 
 Para executar este projeto localmente:
@@ -38,7 +33,11 @@ Após executar as migrations, execute os três projetos em terminais separados:
 ```
 
 O primeiro passo é registrar um "Webhook subscription", que pode ser feito no Postman ou no endereço:
+
 http://localhost:5000/index.html
+
+![screenshot](resources/Screenshot_2.png)
+
 
 Exemplo de payload para o body do Post caso decida usar o postman:
 {
@@ -52,10 +51,12 @@ Crie um vôo usando o endpoint http://localhost:5000/Flights e o verbo POST no P
 
 Exemplo de payload:
 
+
 {
     "FlightCode": "JLX2023",
     "Price": 1000
 }
+
 
 Faça alterações neste vôo usando o verbo PUT e o payload abaixo:
 {
@@ -64,7 +65,11 @@ Faça alterações neste vôo usando o verbo PUT e o payload abaixo:
 }
 
 Observe os logs que serão gerados nos terminais abertos.
+
+Exemplo:
+
+![screenshot](resources/Screenshot_1.png)
 ## Autores
 
-- [@paolofullone](https://www.linkedin.com/in/paolofullone)
+[Paolo Fullone](https://www.linkedin.com/in/paolofullone)
 
