@@ -8,7 +8,7 @@ public class WebhookSubscription
     [Required]
     public int Id { get; set; }
     [Required]
-    public string? WebhookUri { get; set; }
+    public string? WebhookURI { get; set; }
     [Required]
     public string? Secret { get; set; }
     [Required]

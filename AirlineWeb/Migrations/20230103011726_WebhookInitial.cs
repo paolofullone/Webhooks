@@ -16,7 +16,7 @@ namespace AirlineWeb.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    WebhookUri = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    WebhookURI = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Secret = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     WebhookType = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     WebhookPublisher = table.Column<string>(type: "nvarchar(max)", nullable: false)

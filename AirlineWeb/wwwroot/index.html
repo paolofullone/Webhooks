@@ -72,7 +72,7 @@
             (async () => {
                 const rawResponse = await fetch('https://localhost:5001/api/WebhookSubscription', {
                     method: 'post',
-                    body: JSON.stringify({ webhookUri: webhookURI.value, webhookType: webhookType.value }),
+                    body: JSON.stringify({ webhookURI: webhookURI.value, webhookType: webhookType.value }),
                     headers: {
                         'Content-Type': 'application/json'
                     }

@@ -5,7 +5,7 @@ namespace AirlineWeb.Dtos;
 public class WebhookSubscriptionCreateDto
 {
     [Required]
-    public string? WebhookUri { get; set; }
+    public string? WebhookURI { get; set; }
     [Required]
     public string? WebhookType { get; set; }
 }

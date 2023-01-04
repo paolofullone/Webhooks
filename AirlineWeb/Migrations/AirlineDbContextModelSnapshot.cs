@@ -61,7 +61,7 @@ namespace AirlineWeb.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("WebhookUri")
+                    b.Property<string>("WebhookURI")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 

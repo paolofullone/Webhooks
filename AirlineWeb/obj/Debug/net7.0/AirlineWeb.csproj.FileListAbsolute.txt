@@ -79,3 +79,4 @@ C:\CSharp\Webhook\Projeto\Webhooks\AirlineWeb\obj\Debug\net7.0\AirlineWeb.pdb
 C:\CSharp\Webhook\Projeto\Webhooks\AirlineWeb\obj\Debug\net7.0\AirlineWeb.genruntimeconfig.cache
 C:\CSharp\Webhook\Projeto\Webhooks\AirlineWeb\obj\Debug\net7.0\ref\AirlineWeb.dll
 C:\CSharp\Webhook\Projeto\Webhooks\AirlineWeb\bin\Debug\net7.0\AirlineWeb.staticwebassets.runtime.json
+C:\CSharp\Webhook\Projeto\Webhooks\AirlineWeb\bin\Debug\net7.0\RabbitMQ.Client.dll

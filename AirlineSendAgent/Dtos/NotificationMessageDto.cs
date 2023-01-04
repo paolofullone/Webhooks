@@ -1,11 +1,14 @@
-namespace AirlineSendAgent.Dtos;
+using System;
 
-public class NotificationMessageDto
+namespace AirlineSendAgent.Dtos
 {
-
-    public string? Id { get; }
-    public string? WebhookType { get; set; }
-    public string? FlightCode { get; set; }
-    public decimal OldPrice { get; set; }
-    public decimal NewPrice { get; set; }
+    public class NotificationMessageDto
+    {
+    
+        public string Id { get; }
+        public string WebhookType { get; set; }
+        public string FlightCode { get; set; }
+        public decimal OldPrice { get; set; }
+        public decimal NewPrice { get; set; }
+    }
 }

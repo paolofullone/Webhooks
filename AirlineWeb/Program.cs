@@ -1,5 +1,6 @@
 
 using AirlineWeb.Data;
+using AirlineWeb.MessageBus;
 using Microsoft.EntityFrameworkCore;
 
 namespace AirlineWeb
@@ -27,6 +28,9 @@ namespace AirlineWeb
 
             // adds automapper
             builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
+            // Adds MessageBusClient to the container.
+            builder.Services.AddSingleton<IMessageBusClient, MessageBusClient>();
 
 
             var app = builder.Build();

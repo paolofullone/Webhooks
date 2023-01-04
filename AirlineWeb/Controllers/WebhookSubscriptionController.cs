@@ -35,7 +35,7 @@ namespace AirlineWeb.Controllers
         [HttpPost]
         public ActionResult<WebhookSubscriptionReadDto> CreateSubscription(WebhookSubscriptionCreateDto webhookSubscriptionCreateDto)
         {
-            var subscription = _context.WebhookSubscriptions!.FirstOrDefault(s => s.WebhookUri == webhookSubscriptionCreateDto.WebhookUri);
+            var subscription = _context.WebhookSubscriptions!.FirstOrDefault(s => s.WebhookURI == webhookSubscriptionCreateDto.WebhookURI);
 
             if (subscription is null)
             {
